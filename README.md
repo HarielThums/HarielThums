@@ -22,6 +22,7 @@ __I'm currently using:__
 __My social medias: :eyes:__
 
 [![[]](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariel-thums/) [![[]](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hariel.dtz)
+[![[]](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HarielThums)
 
 __Contact me:__
 - **hariel@hotmail.com**
