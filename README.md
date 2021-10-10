@@ -12,10 +12,6 @@ __I’m currently learning:__
 
 ![[]](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-A little less: 
-
-![[]](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-
 __I'm currently using:__
 
 ![[]](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![[]](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![[]](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
