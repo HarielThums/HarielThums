@@ -12,8 +12,6 @@ __I’m currently learning:__
 
 ![[]](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white) ![[]](https://img.shields.io/badge/Spring_Boot-323330?style=for-the-badge&logo=spring-boot)
-
 __I'm currently using:__
 
 ![[]](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![[]](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![[]](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
