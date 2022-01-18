@@ -10,8 +10,6 @@ __I’m currently learning:__
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-![[]](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
 __I'm currently using:__
 
 ![[]](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![[]](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![[]](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
