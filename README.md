@@ -20,7 +20,7 @@ __I'm currently working with:__
 
 __I'm currently using:__
 
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![[]](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![[]](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![[]](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![[]](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![[]](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 __My social medias: :eyes:__
 
