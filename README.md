@@ -1,4 +1,4 @@
-### Hi there, I'm Hariel Thums Rigelli. :smile::smile:
+### Hi, I'm Hariel Thums Rigelli. :smile::smile:
 
 __I have a degree in System Analysis and Development at [Fatec, São josé do campos/SP](https://fatecsjc-prd.azurewebsites.net/).__
 
